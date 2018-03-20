@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Sharud/Downloads/google-gson-2.2.3-release/google-gson-2.2.3/gson-2.2.3.jar"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Sharud/Developer/android-sdks/extras/google/gcm/gcm-server/dist/gcm-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sharud/Downloads/google-gson-2.2.3-release/google-gson-2.2.3/gson-2.2.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sharud/Downloads/google-gson-2.2.3-release/google-gson-2.2.3/gson-2.2.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sharud/Developer/android-sdks/extras/google/gcm/samples/gcm-demo-appengine/WebContent/WEB-INF/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
